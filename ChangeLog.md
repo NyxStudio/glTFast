@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Point meshes are rendered consistently on more platforms (iOS, Vulkan) due to explicitely setting `PSIZE` (thanks [Kim Wonkee][wonkee-kim] for #309)
 - Removed Editor markup resources from builds
 - (Documentation) Many minor fixes like XML doc linter errors/warnings
+- (Export) Removed redundant texture entries in glTF schema
 
 ## [4.5.0] - 2022-01-24
 ### Added
