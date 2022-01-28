@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed Editor markup resources from builds
 - (Documentation) Many minor fixes like XML doc linter errors/warnings
 - (Export) Removed redundant texture entries in glTF schema
+- (Export) Properly closing buffer file stream
 
 ## [4.5.0] - 2022-01-24
 ### Added
